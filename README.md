@@ -23,4 +23,4 @@ OS Library: "pthread"
 GSL Library: "libgsl", and "libgslcblas"
 - Add DISLIN header file folder to search directories compiler
 
-![Screenshot](Screenshot.pngs)
+![Screenshot](Screenshot.png)
