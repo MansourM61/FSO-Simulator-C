@@ -1,0 +1,1100 @@
+# depslib dependency file v1.0
+1565653874 source:/home/mojtaba/Dropbox/MyProject/OCS Analyser/Ver_01/FSO_Sys_Sim/main.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	"dislin.h"
+
+1565740458 
+
+1551447996 /home/mojtaba/dislin/dislin.h
+
+1565740458 source:c:\users\mojtaba\dropbox\myproject\ocs analyser\ver_04\main.c
+	<stdio.h>
+	"dislin.h"
+
+1565739651 c:\users\mojtaba\dropbox\myproject\ocs analyser\library\dl_11_mg\dislin.h
+
+1565819978 source:/home/mojtaba/Dropbox/MyProject/OCS Analyser/Ver_05/main.c
+	<stdio.h>
+	<math.h>
+	"dislin.h"
+
+1565916526 source:/home/mojtaba/Dropbox/MyProject/OCS Analyser/Ver_07/grafixModule.c
+	"grafixModule.h"
+
+1565916347 /home/mojtaba/Dropbox/MyProject/OCS Analyser/Ver_07/grafixModule.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"dislin.h"
+	"parameters.h"
+
+1565916377 /home/mojtaba/Dropbox/MyProject/OCS Analyser/Ver_07/parameters.h
+
+1565916264 source:/home/mojtaba/Dropbox/MyProject/OCS Analyser/Ver_07/main.c
+	<stdio.h>
+	<math.h>
+	"parameters.h"
+	"grafixModule.h"
+
+1566088144 source:d:\data\dropbox\myproject\ocs analyser\ver_08\grafixmodule.c
+	"grafixModule.h"
+
+1566088567 d:\data\dropbox\myproject\ocs analyser\ver_08\grafixmodule.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"dislin.h"
+	"parameters.h"
+
+1551451596 d:\dislin\dislin.h
+
+1566086139 d:\data\dropbox\myproject\ocs analyser\ver_08\parameters.h
+
+1566088406 source:d:\data\dropbox\myproject\ocs analyser\ver_08\main.c
+	<stdio.h>
+	<math.h>
+	"parameters.h"
+	"appModule.h"
+	"grafixModule.h"
+
+1566086121 source:d:\data\dropbox\myproject\ocs analyser\ver_08\appmodule.c
+	"appModule.h"
+	"grafixModule.h"
+
+1566082289 d:\data\dropbox\myproject\ocs analyser\ver_08\appmodule.h
+
+1566129124 source:d:\data\dropbox\myproject\ocs analyser\ver_09\appmodule.c
+	"appModule.h"
+	"grafixModule.h"
+
+1566090177 d:\data\dropbox\myproject\ocs analyser\ver_09\appmodule.h
+
+1566132084 d:\data\dropbox\myproject\ocs analyser\ver_09\grafixmodule.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"dislin.h"
+	"parameters.h"
+
+1566128542 d:\data\dropbox\myproject\ocs analyser\ver_09\parameters.h
+
+1566132506 source:d:\data\dropbox\myproject\ocs analyser\ver_09\grafixmodule.c
+	"grafixModule.h"
+	"appModule.h"
+
+1566089103 source:d:\data\dropbox\myproject\ocs analyser\ver_09\main.c
+	<stdio.h>
+	<math.h>
+	"parameters.h"
+	"appModule.h"
+	"grafixModule.h"
+
+1566169801 source:d:\data\dropbox\myproject\ocs analyser\ver_10\appmodule.c
+	"appModule.h"
+	"grafixModule.h"
+
+1566169829 d:\data\dropbox\myproject\ocs analyser\ver_10\appmodule.h
+
+1566168932 d:\data\dropbox\myproject\ocs analyser\ver_10\grafixmodule.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"dislin.h"
+	"parameters.h"
+
+1566135351 d:\data\dropbox\myproject\ocs analyser\ver_10\parameters.h
+
+1566089103 source:d:\data\dropbox\myproject\ocs analyser\ver_10\main.c
+	<stdio.h>
+	<math.h>
+	"parameters.h"
+	"appModule.h"
+	"grafixModule.h"
+
+1566346568 source:c:\users\mojtaba\dropbox\myproject\ocs analyser\ver_11\appmodule.c
+	"appModule.h"
+	"grafixModule.h"
+
+1566346305 c:\users\mojtaba\dropbox\myproject\ocs analyser\ver_11\appmodule.h
+
+1566346380 c:\users\mojtaba\dropbox\myproject\ocs analyser\ver_11\grafixmodule.h
+	"dislin.h"
+	"parameters.h"
+
+1551451596 c:\dislin\dislin.h
+
+1566345133 c:\users\mojtaba\dropbox\myproject\ocs analyser\ver_11\parameters.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1566346523 source:c:\users\mojtaba\dropbox\myproject\ocs analyser\ver_11\grafixmodule.c
+	"grafixModule.h"
+	"appModule.h"
+
+1566346568 source:c:\users\mojtaba\dropbox\myproject\ocs analyser\ver_11\main.c
+	"parameters.h"
+	"appModule.h"
+	"grafixModule.h"
+
+1567191665 source:d:\data\dropbox\myproject\ocs analyser\ver_16\appmodule.c
+	"appModule.h"
+	"grafixModule.h"
+	"threadModule.h"
+	<time.h>
+
+1567028910 d:\data\dropbox\myproject\ocs analyser\ver_16\appmodule.h
+	"parameters.h"
+
+1567248618 d:\data\dropbox\myproject\ocs analyser\ver_16\parameters.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1567249393 d:\data\dropbox\myproject\ocs analyser\ver_16\grafixmodule.h
+	"dislin.h"
+	"parameters.h"
+	"coreModule.h"
+
+1567250706 d:\data\dropbox\myproject\ocs analyser\ver_16\coremodule.h
+	"parameters.h"
+	"sigGenModule.h"
+	"sigProcModule.h"
+
+1567249165 d:\data\dropbox\myproject\ocs analyser\ver_16\siggenmodule.h
+	"parameters.h"
+
+1567249192 d:\data\dropbox\myproject\ocs analyser\ver_16\sigprocmodule.h
+	"parameters.h"
+
+1567248030 d:\data\dropbox\myproject\ocs analyser\ver_16\threadmodule.h
+	"parameters.h"
+	<windows.h>
+	<process.h>
+	<unistd.h>
+	<pthread.h>
+	<time.h>
+
+1567249644 source:d:\data\dropbox\myproject\ocs analyser\ver_16\grafixmodule.c
+	"grafixModule.h"
+	"appModule.h"
+	"coreModule.h"
+
+1567027315 source:d:\data\dropbox\myproject\ocs analyser\ver_16\main.c
+	"parameters.h"
+	"appModule.h"
+	"grafixModule.h"
+
+1567249191 source:d:\data\dropbox\myproject\ocs analyser\ver_16\siggenmodule.c
+	"sigGenModule.h"
+
+1567249179 source:d:\data\dropbox\myproject\ocs analyser\ver_16\sigprocmodule.c
+	"sigProcModule.h"
+	<math.h>
+
+1567193834 source:d:\data\dropbox\myproject\ocs analyser\ver_16\threadmodule.c
+	"threadModule.h"
+	"appModule.h"
+	"coreModule.h"
+
+1567295398 source:d:\data\dropbox\myproject\ocs analyser\ver_17\appmodule.c
+	"appModule.h"
+	"grafixModule.h"
+	"threadModule.h"
+	<time.h>
+
+1567028910 d:\data\dropbox\myproject\ocs analyser\ver_17\appmodule.h
+	"parameters.h"
+
+1567248618 d:\data\dropbox\myproject\ocs analyser\ver_17\parameters.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1567295323 d:\data\dropbox\myproject\ocs analyser\ver_17\grafixmodule.h
+	"dislin.h"
+	"parameters.h"
+	"coreModule.h"
+
+1567288981 d:\data\dropbox\myproject\ocs analyser\ver_17\coremodule.h
+	"parameters.h"
+	"sigGenModule.h"
+	"sigProcModule.h"
+
+1567288716 d:\data\dropbox\myproject\ocs analyser\ver_17\siggenmodule.h
+	"parameters.h"
+
+1567249192 d:\data\dropbox\myproject\ocs analyser\ver_17\sigprocmodule.h
+	"parameters.h"
+
+1567248030 d:\data\dropbox\myproject\ocs analyser\ver_17\threadmodule.h
+	"parameters.h"
+	<windows.h>
+	<process.h>
+	<unistd.h>
+	<pthread.h>
+	<time.h>
+
+1567288651 source:d:\data\dropbox\myproject\ocs analyser\ver_17\coremodule.c
+	"coreModule.h"
+	"grafixModule.h"
+
+1567288031 source:d:\data\dropbox\myproject\ocs analyser\ver_17\grafixmodule.c
+	"grafixModule.h"
+	"appModule.h"
+	"coreModule.h"
+
+1567027315 source:d:\data\dropbox\myproject\ocs analyser\ver_17\main.c
+	"parameters.h"
+	"appModule.h"
+	"grafixModule.h"
+
+1567293032 source:d:\data\dropbox\myproject\ocs analyser\ver_17\siggenmodule.c
+	"sigGenModule.h"
+
+1567249179 source:d:\data\dropbox\myproject\ocs analyser\ver_17\sigprocmodule.c
+	"sigProcModule.h"
+	<math.h>
+
+1567288089 source:d:\data\dropbox\myproject\ocs analyser\ver_17\threadmodule.c
+	"threadModule.h"
+	"appModule.h"
+	"coreModule.h"
+	"grafixModule.h"
+
+1567351664 source:d:\data\dropbox\myproject\ocs analyser\ver_19\appmodule.c
+	"appModule.h"
+	"grafixModule.h"
+	"threadModule.h"
+	<time.h>
+
+1567028910 d:\data\dropbox\myproject\ocs analyser\ver_19\appmodule.h
+	"parameters.h"
+
+1567248618 d:\data\dropbox\myproject\ocs analyser\ver_19\parameters.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1567295323 d:\data\dropbox\myproject\ocs analyser\ver_19\grafixmodule.h
+	"dislin.h"
+	"parameters.h"
+	"coreModule.h"
+
+1567346254 d:\data\dropbox\myproject\ocs analyser\ver_19\coremodule.h
+	"parameters.h"
+	"sigGenModule.h"
+	"sigProcModule.h"
+
+1567340229 d:\data\dropbox\myproject\ocs analyser\ver_19\siggenmodule.h
+	"parameters.h"
+
+1567346171 d:\data\dropbox\myproject\ocs analyser\ver_19\sigprocmodule.h
+	"parameters.h"
+
+1567337864 d:\data\dropbox\myproject\ocs analyser\ver_19\threadmodule.h
+	"parameters.h"
+	<windows.h>
+	<process.h>
+	<unistd.h>
+	<pthread.h>
+	<time.h>
+
+1567351301 source:d:\data\dropbox\myproject\ocs analyser\ver_19\grafixmodule.c
+	"grafixModule.h"
+	"appModule.h"
+	"coreModule.h"
+	<math.h>
+
+1567351457 source:d:\data\dropbox\myproject\ocs analyser\ver_19\main.c
+	"parameters.h"
+	"appModule.h"
+	"grafixModule.h"
+
+1567346175 source:d:\data\dropbox\myproject\ocs analyser\ver_19\sigprocmodule.c
+	"sigProcModule.h"
+	<math.h>
+
+1567298196 source:d:\data\dropbox\myproject\ocs analyser\ver_19\threadmodule.c
+	"threadModule.h"
+	"appModule.h"
+	"coreModule.h"
+	"grafixModule.h"
+	<stdlib.h>
+	<time.h>
+
+1567340352 source:d:\data\dropbox\myproject\ocs analyser\ver_19\siggenmodule.c
+	"sigGenModule.h"
+
+1567346286 source:d:\data\dropbox\myproject\ocs analyser\ver_19\coremodule.c
+	"coreModule.h"
+	"grafixModule.h"
+
+1567375282 source:d:\data\dropbox\myproject\ocs analyser\ver_20\appmodule.c
+	"appModule.h"
+	"grafixModule.h"
+	"threadModule.h"
+	<time.h>
+
+1567028910 d:\data\dropbox\myproject\ocs analyser\ver_20\appmodule.h
+	"parameters.h"
+
+1567248618 d:\data\dropbox\myproject\ocs analyser\ver_20\parameters.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1567367997 d:\data\dropbox\myproject\ocs analyser\ver_20\grafixmodule.h
+	"dislin.h"
+	"parameters.h"
+	"coreModule.h"
+
+1567375161 d:\data\dropbox\myproject\ocs analyser\ver_20\coremodule.h
+	"parameters.h"
+	"sigGenModule.h"
+	"sigProcModule.h"
+
+1567340229 d:\data\dropbox\myproject\ocs analyser\ver_20\siggenmodule.h
+	"parameters.h"
+
+1567374229 d:\data\dropbox\myproject\ocs analyser\ver_20\sigprocmodule.h
+	"parameters.h"
+
+1567337864 d:\data\dropbox\myproject\ocs analyser\ver_20\threadmodule.h
+	"parameters.h"
+	<windows.h>
+	<process.h>
+	<unistd.h>
+	<pthread.h>
+	<time.h>
+
+1567375185 source:d:\data\dropbox\myproject\ocs analyser\ver_20\coremodule.c
+	"coreModule.h"
+	"grafixModule.h"
+
+1567370801 source:d:\data\dropbox\myproject\ocs analyser\ver_20\grafixmodule.c
+	"grafixModule.h"
+	"appModule.h"
+	"coreModule.h"
+	<math.h>
+
+1567351457 source:d:\data\dropbox\myproject\ocs analyser\ver_20\main.c
+	"parameters.h"
+	"appModule.h"
+	"grafixModule.h"
+
+1567340352 source:d:\data\dropbox\myproject\ocs analyser\ver_20\siggenmodule.c
+	"sigGenModule.h"
+
+1567374536 source:d:\data\dropbox\myproject\ocs analyser\ver_20\sigprocmodule.c
+	"sigProcModule.h"
+	<math.h>
+
+1567370892 source:d:\data\dropbox\myproject\ocs analyser\ver_20\threadmodule.c
+	"threadModule.h"
+	"appModule.h"
+	"coreModule.h"
+	"grafixModule.h"
+	<stdlib.h>
+	<time.h>
+
+1567375282 source:c:\users\mojtaba\dropbox\myproject\ocs analyser\ver_21\appmodule.c
+	"appModule.h"
+	"grafixModule.h"
+	"threadModule.h"
+	<time.h>
+
+1567028910 c:\users\mojtaba\dropbox\myproject\ocs analyser\ver_21\appmodule.h
+	"parameters.h"
+
+1567376537 c:\users\mojtaba\dropbox\myproject\ocs analyser\ver_21\parameters.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1567367997 c:\users\mojtaba\dropbox\myproject\ocs analyser\ver_21\grafixmodule.h
+	"dislin.h"
+	"parameters.h"
+	"coreModule.h"
+
+1567465680 c:\users\mojtaba\dropbox\myproject\ocs analyser\ver_21\coremodule.h
+	"parameters.h"
+	"sigGenModule.h"
+	"sigProcModule.h"
+
+1567463914 c:\users\mojtaba\dropbox\myproject\ocs analyser\ver_21\siggenmodule.h
+	"parameters.h"
+
+1567375432 c:\users\mojtaba\dropbox\myproject\ocs analyser\ver_21\sigprocmodule.h
+	"parameters.h"
+
+1567376378 c:\users\mojtaba\dropbox\myproject\ocs analyser\ver_21\threadmodule.h
+	"parameters.h"
+	<windows.h>
+	<process.h>
+	<unistd.h>
+	<pthread.h>
+	<time.h>
+
+1567370801 source:c:\users\mojtaba\dropbox\myproject\ocs analyser\ver_21\grafixmodule.c
+	"grafixModule.h"
+	"appModule.h"
+	"coreModule.h"
+	<math.h>
+
+1567351457 source:c:\users\mojtaba\dropbox\myproject\ocs analyser\ver_21\main.c
+	"parameters.h"
+	"appModule.h"
+	"grafixModule.h"
+
+1567464869 source:c:\users\mojtaba\dropbox\myproject\ocs analyser\ver_21\siggenmodule.c
+	"sigGenModule.h"
+	<math.h>
+
+1567465604 source:c:\users\mojtaba\dropbox\myproject\ocs analyser\ver_21\sigprocmodule.c
+	"sigProcModule.h"
+	<math.h>
+
+1567370892 source:c:\users\mojtaba\dropbox\myproject\ocs analyser\ver_21\threadmodule.c
+	"threadModule.h"
+	"appModule.h"
+	"coreModule.h"
+	"grafixModule.h"
+	<stdlib.h>
+	<time.h>
+
+1567712670 source:c:\users\gqqv4\dropbox\myproject\ocs analyser\ver_22\appmodule.c
+	"appModule.h"
+	"grafixModule.h"
+	"threadModule.h"
+	"FSOModule.h"
+	<time.h>
+
+1567028910 c:\users\gqqv4\dropbox\myproject\ocs analyser\ver_22\appmodule.h
+	"parameters.h"
+
+1567712660 c:\users\gqqv4\dropbox\myproject\ocs analyser\ver_22\parameters.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1567712312 c:\users\gqqv4\dropbox\myproject\ocs analyser\ver_22\grafixmodule.h
+	"dislin.h"
+	"parameters.h"
+	"coreModule.h"
+
+1567713175 c:\users\gqqv4\dropbox\myproject\ocs analyser\ver_22\coremodule.h
+	"parameters.h"
+	"sigGenModule.h"
+	"sigProcModule.h"
+	<math.h>
+
+1567463914 c:\users\gqqv4\dropbox\myproject\ocs analyser\ver_22\siggenmodule.h
+	"parameters.h"
+
+1567375432 c:\users\gqqv4\dropbox\myproject\ocs analyser\ver_22\sigprocmodule.h
+	"parameters.h"
+
+1567376378 c:\users\gqqv4\dropbox\myproject\ocs analyser\ver_22\threadmodule.h
+	"parameters.h"
+	<windows.h>
+	<process.h>
+	<unistd.h>
+	<pthread.h>
+	<time.h>
+
+1567605329 source:c:\users\gqqv4\dropbox\myproject\ocs analyser\ver_22\coremodule.c
+	"coreModule.h"
+	"grafixModule.h"
+	"FSOModule.h"
+
+1567708011 c:\users\gqqv4\dropbox\myproject\ocs analyser\ver_22\fsomodule.h
+
+1567605438 source:c:\users\gqqv4\dropbox\myproject\ocs analyser\ver_22\fsomodule.c
+	"FSOModule.h"
+
+1567712639 source:c:\users\gqqv4\dropbox\myproject\ocs analyser\ver_22\grafixmodule.c
+	"grafixModule.h"
+	"appModule.h"
+	"coreModule.h"
+	<math.h>
+
+1567705083 source:c:\users\gqqv4\dropbox\myproject\ocs analyser\ver_22\main.c
+	"parameters.h"
+	"appModule.h"
+	"grafixModule.h"
+	<stdio.h>
+
+1567464869 source:c:\users\gqqv4\dropbox\myproject\ocs analyser\ver_22\siggenmodule.c
+	"sigGenModule.h"
+	<math.h>
+
+1567550072 source:c:\users\gqqv4\dropbox\myproject\ocs analyser\ver_22\sigprocmodule.c
+	"sigProcModule.h"
+	<math.h>
+
+1567370892 source:c:\users\gqqv4\dropbox\myproject\ocs analyser\ver_22\threadmodule.c
+	"threadModule.h"
+	"appModule.h"
+	"coreModule.h"
+	"grafixModule.h"
+	<stdlib.h>
+	<time.h>
+
+1567877198 source:d:\data\dropbox\myproject\ocs analyser\ver_23\appmodule.c
+	"appModule.h"
+	"grafixModule.h"
+	"threadModule.h"
+	"FSOModule.h"
+	"coreModule.h"
+	<time.h>
+
+1567028910 d:\data\dropbox\myproject\ocs analyser\ver_23\appmodule.h
+	"parameters.h"
+
+1567875752 d:\data\dropbox\myproject\ocs analyser\ver_23\parameters.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1567877130 d:\data\dropbox\myproject\ocs analyser\ver_23\grafixmodule.h
+	"dislin.h"
+	"parameters.h"
+	"coreModule.h"
+
+1567876060 d:\data\dropbox\myproject\ocs analyser\ver_23\coremodule.h
+	"parameters.h"
+	"sigGenModule.h"
+	"sigProcModule.h"
+	<math.h>
+
+1567463914 d:\data\dropbox\myproject\ocs analyser\ver_23\siggenmodule.h
+	"parameters.h"
+
+1567876483 d:\data\dropbox\myproject\ocs analyser\ver_23\sigprocmodule.h
+	"parameters.h"
+
+1567376378 d:\data\dropbox\myproject\ocs analyser\ver_23\threadmodule.h
+	"parameters.h"
+	<windows.h>
+	<process.h>
+	<unistd.h>
+	<pthread.h>
+	<time.h>
+
+1567873175 d:\data\dropbox\myproject\ocs analyser\ver_23\fsomodule.h
+	"dislin.h"
+	"parameters.h"
+
+1567875995 source:d:\data\dropbox\myproject\ocs analyser\ver_23\coremodule.c
+	"coreModule.h"
+	"grafixModule.h"
+	"FSOModule.h"
+
+1567873129 source:d:\data\dropbox\myproject\ocs analyser\ver_23\fsomodule.c
+	"FSOModule.h"
+	"grafixModule.h"
+	<math.h>
+
+1567877232 source:d:\data\dropbox\myproject\ocs analyser\ver_23\grafixmodule.c
+	"grafixModule.h"
+	"appModule.h"
+	"coreModule.h"
+	<math.h>
+
+1567705083 source:d:\data\dropbox\myproject\ocs analyser\ver_23\main.c
+	"parameters.h"
+	"appModule.h"
+	"grafixModule.h"
+	<stdio.h>
+
+1567464869 source:d:\data\dropbox\myproject\ocs analyser\ver_23\siggenmodule.c
+	"sigGenModule.h"
+	<math.h>
+
+1567876449 source:d:\data\dropbox\myproject\ocs analyser\ver_23\sigprocmodule.c
+	"sigProcModule.h"
+	<math.h>
+
+1567370892 source:d:\data\dropbox\myproject\ocs analyser\ver_23\threadmodule.c
+	"threadModule.h"
+	"appModule.h"
+	"coreModule.h"
+	"grafixModule.h"
+	<stdlib.h>
+	<time.h>
+
+1567890756 source:d:\data\dropbox\myproject\ocs analyser\ver_24\appmodule.c
+	"appModule.h"
+	"grafixModule.h"
+	"threadModule.h"
+	"FSOModule.h"
+	"coreModule.h"
+	<time.h>
+
+1567028910 d:\data\dropbox\myproject\ocs analyser\ver_24\appmodule.h
+	"parameters.h"
+
+1567890842 d:\data\dropbox\myproject\ocs analyser\ver_24\parameters.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1567884699 d:\data\dropbox\myproject\ocs analyser\ver_24\grafixmodule.h
+	"dislin.h"
+	"parameters.h"
+	"coreModule.h"
+
+1567884434 d:\data\dropbox\myproject\ocs analyser\ver_24\coremodule.h
+	"parameters.h"
+	"sigGenModule.h"
+	"sigProcModule.h"
+	<math.h>
+
+1567884770 d:\data\dropbox\myproject\ocs analyser\ver_24\siggenmodule.h
+	"parameters.h"
+
+1567891069 d:\data\dropbox\myproject\ocs analyser\ver_24\sigprocmodule.h
+	"parameters.h"
+
+1567376378 d:\data\dropbox\myproject\ocs analyser\ver_24\threadmodule.h
+	"parameters.h"
+	<windows.h>
+	<process.h>
+	<unistd.h>
+	<pthread.h>
+	<time.h>
+
+1567884699 d:\data\dropbox\myproject\ocs analyser\ver_24\fsomodule.h
+	"dislin.h"
+	"parameters.h"
+
+1567884528 source:d:\data\dropbox\myproject\ocs analyser\ver_24\fsomodule.c
+	"FSOModule.h"
+	"grafixModule.h"
+	"sigProcModule.h"
+	"sigGenModule.h"
+	<math.h>
+
+1567884807 source:d:\data\dropbox\myproject\ocs analyser\ver_24\grafixmodule.c
+	"grafixModule.h"
+	"appModule.h"
+	"coreModule.h"
+	<math.h>
+
+1567705083 source:d:\data\dropbox\myproject\ocs analyser\ver_24\main.c
+	"parameters.h"
+	"appModule.h"
+	"grafixModule.h"
+	<stdio.h>
+
+1567884590 source:d:\data\dropbox\myproject\ocs analyser\ver_24\siggenmodule.c
+	"sigGenModule.h"
+	<math.h>
+
+1567884627 source:d:\data\dropbox\myproject\ocs analyser\ver_24\sigprocmodule.c
+	"sigProcModule.h"
+	<math.h>
+
+1567370892 source:d:\data\dropbox\myproject\ocs analyser\ver_24\threadmodule.c
+	"threadModule.h"
+	"appModule.h"
+	"coreModule.h"
+	"grafixModule.h"
+	<stdlib.h>
+	<time.h>
+
+1567884845 source:d:\data\dropbox\myproject\ocs analyser\ver_24\coremodule.c
+	"coreModule.h"
+	"grafixModule.h"
+	"FSOModule.h"
+
+1567705083 source:d:\data\dropbox\myproject\ocs analyser\ver_25\main.c
+	"parameters.h"
+	"appModule.h"
+	"grafixModule.h"
+	<stdio.h>
+
+1567903004 d:\data\dropbox\myproject\ocs analyser\ver_25\parameters.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1567028910 d:\data\dropbox\myproject\ocs analyser\ver_25\appmodule.h
+	"parameters.h"
+
+1567891534 d:\data\dropbox\myproject\ocs analyser\ver_25\grafixmodule.h
+	"dislin.h"
+	"parameters.h"
+	"coreModule.h"
+
+1567905034 d:\data\dropbox\myproject\ocs analyser\ver_25\coremodule.h
+	"parameters.h"
+	"sigGenModule.h"
+	"sigProcModule.h"
+	<math.h>
+
+1567891534 d:\data\dropbox\myproject\ocs analyser\ver_25\siggenmodule.h
+	"parameters.h"
+
+1567902642 d:\data\dropbox\myproject\ocs analyser\ver_25\sigprocmodule.h
+	"parameters.h"
+
+1567370892 source:d:\data\dropbox\myproject\ocs analyser\ver_25\threadmodule.c
+	"threadModule.h"
+	"appModule.h"
+	"coreModule.h"
+	"grafixModule.h"
+	<stdlib.h>
+	<time.h>
+
+1567906132 d:\data\dropbox\myproject\ocs analyser\ver_25\threadmodule.h
+	"parameters.h"
+	<windows.h>
+	<process.h>
+	<unistd.h>
+	<pthread.h>
+	<time.h>
+
+1567905771 source:d:\data\dropbox\myproject\ocs analyser\ver_25\appmodule.c
+	"appModule.h"
+	"grafixModule.h"
+	"threadModule.h"
+	"FSOModule.h"
+	"coreModule.h"
+	<time.h>
+
+1567906098 d:\data\dropbox\myproject\ocs analyser\ver_25\fsomodule.h
+	"dislin.h"
+	"parameters.h"
+
+1567905001 source:d:\data\dropbox\myproject\ocs analyser\ver_25\coremodule.c
+	"coreModule.h"
+	"grafixModule.h"
+	"FSOModule.h"
+
+1567906091 source:d:\data\dropbox\myproject\ocs analyser\ver_25\fsomodule.c
+	"FSOModule.h"
+	"grafixModule.h"
+	"sigProcModule.h"
+	"sigGenModule.h"
+	<math.h>
+
+1567891457 source:d:\data\dropbox\myproject\ocs analyser\ver_25\grafixmodule.c
+	"grafixModule.h"
+	"appModule.h"
+	"coreModule.h"
+	<math.h>
+
+1567891457 source:d:\data\dropbox\myproject\ocs analyser\ver_25\siggenmodule.c
+	"sigGenModule.h"
+	<math.h>
+
+1567902818 source:d:\data\dropbox\myproject\ocs analyser\ver_25\sigprocmodule.c
+	"sigProcModule.h"
+	<math.h>
+
+1567905001 source:d:\data\dropbox\myproject\ocs analyser\ver_26\coremodule.c
+	"coreModule.h"
+	"grafixModule.h"
+	"FSOModule.h"
+
+1567905034 d:\data\dropbox\myproject\ocs analyser\ver_26\coremodule.h
+	"parameters.h"
+	"sigGenModule.h"
+	"sigProcModule.h"
+	<math.h>
+
+1567907561 d:\data\dropbox\myproject\ocs analyser\ver_26\parameters.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1567891534 d:\data\dropbox\myproject\ocs analyser\ver_26\siggenmodule.h
+	"parameters.h"
+
+1567910631 d:\data\dropbox\myproject\ocs analyser\ver_26\sigprocmodule.h
+	"parameters.h"
+
+1567911193 d:\data\dropbox\myproject\ocs analyser\ver_26\grafixmodule.h
+	"dislin.h"
+	"parameters.h"
+	"coreModule.h"
+
+1567906098 d:\data\dropbox\myproject\ocs analyser\ver_26\fsomodule.h
+	"dislin.h"
+	"parameters.h"
+
+1567906439 source:d:\data\dropbox\myproject\ocs analyser\ver_26\fsomodule.c
+	"FSOModule.h"
+	"grafixModule.h"
+	"sigProcModule.h"
+	"sigGenModule.h"
+	<math.h>
+
+1567911266 source:d:\data\dropbox\myproject\ocs analyser\ver_26\grafixmodule.c
+	"grafixModule.h"
+	"appModule.h"
+	"coreModule.h"
+	"sigProcModule.h"
+	<math.h>
+
+1567028910 d:\data\dropbox\myproject\ocs analyser\ver_26\appmodule.h
+	"parameters.h"
+
+1567705083 source:d:\data\dropbox\myproject\ocs analyser\ver_26\main.c
+	"parameters.h"
+	"appModule.h"
+	"grafixModule.h"
+	<stdio.h>
+
+1567891457 source:d:\data\dropbox\myproject\ocs analyser\ver_26\siggenmodule.c
+	"sigGenModule.h"
+	<math.h>
+
+1567910835 source:d:\data\dropbox\myproject\ocs analyser\ver_26\sigprocmodule.c
+	"sigProcModule.h"
+	<math.h>
+
+1567370892 source:d:\data\dropbox\myproject\ocs analyser\ver_26\threadmodule.c
+	"threadModule.h"
+	"appModule.h"
+	"coreModule.h"
+	"grafixModule.h"
+	<stdlib.h>
+	<time.h>
+
+1567906132 d:\data\dropbox\myproject\ocs analyser\ver_26\threadmodule.h
+	"parameters.h"
+	<windows.h>
+	<process.h>
+	<unistd.h>
+	<pthread.h>
+	<time.h>
+
+1567911013 source:d:\data\dropbox\myproject\ocs analyser\ver_26\appmodule.c
+	"appModule.h"
+	"grafixModule.h"
+	"threadModule.h"
+	"FSOModule.h"
+	"coreModule.h"
+	<time.h>
+
+1567911013 source:d:\data\dropbox\myproject\ocs analyser\ver_27\appmodule.c
+	"appModule.h"
+	"grafixModule.h"
+	"threadModule.h"
+	"FSOModule.h"
+	"coreModule.h"
+	<time.h>
+
+1567028910 d:\data\dropbox\myproject\ocs analyser\ver_27\appmodule.h
+	"parameters.h"
+
+1567907561 d:\data\dropbox\myproject\ocs analyser\ver_27\parameters.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1567911193 d:\data\dropbox\myproject\ocs analyser\ver_27\grafixmodule.h
+	"dislin.h"
+	"parameters.h"
+	"coreModule.h"
+
+1567905034 d:\data\dropbox\myproject\ocs analyser\ver_27\coremodule.h
+	"parameters.h"
+	"sigGenModule.h"
+	"sigProcModule.h"
+	<math.h>
+
+1567891534 d:\data\dropbox\myproject\ocs analyser\ver_27\siggenmodule.h
+	"parameters.h"
+
+1567910631 d:\data\dropbox\myproject\ocs analyser\ver_27\sigprocmodule.h
+	"parameters.h"
+
+1567906132 d:\data\dropbox\myproject\ocs analyser\ver_27\threadmodule.h
+	"parameters.h"
+	<windows.h>
+	<process.h>
+	<unistd.h>
+	<pthread.h>
+	<time.h>
+
+1567906098 d:\data\dropbox\myproject\ocs analyser\ver_27\fsomodule.h
+	"dislin.h"
+	"parameters.h"
+
+1567905001 source:d:\data\dropbox\myproject\ocs analyser\ver_27\coremodule.c
+	"coreModule.h"
+	"grafixModule.h"
+	"FSOModule.h"
+
+1567906439 source:d:\data\dropbox\myproject\ocs analyser\ver_27\fsomodule.c
+	"FSOModule.h"
+	"grafixModule.h"
+	"sigProcModule.h"
+	"sigGenModule.h"
+	<math.h>
+
+1567891457 source:d:\data\dropbox\myproject\ocs analyser\ver_27\siggenmodule.c
+	"sigGenModule.h"
+	<math.h>
+
+1567910835 source:d:\data\dropbox\myproject\ocs analyser\ver_27\sigprocmodule.c
+	"sigProcModule.h"
+	<math.h>
+
+1567370892 source:d:\data\dropbox\myproject\ocs analyser\ver_27\threadmodule.c
+	"threadModule.h"
+	"appModule.h"
+	"coreModule.h"
+	"grafixModule.h"
+	<stdlib.h>
+	<time.h>
+
+1567982762 source:d:\data\dropbox\myproject\ocs analyser\ver_28\appmodule.c
+	"appModule.h"
+	"grafixModule.h"
+	"threadModule.h"
+	"FSOModule.h"
+	"coreModule.h"
+	<time.h>
+
+1567946347 d:\data\dropbox\myproject\ocs analyser\ver_28\appmodule.h
+	"parameters.h"
+
+1567985427 d:\data\dropbox\myproject\ocs analyser\ver_28\parameters.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1567978358 d:\data\dropbox\myproject\ocs analyser\ver_28\grafixmodule.h
+	"dislin.h"
+	"parameters.h"
+	"coreModule.h"
+
+1567974419 d:\data\dropbox\myproject\ocs analyser\ver_28\coremodule.h
+	"parameters.h"
+	"sigGenModule.h"
+	"sigProcModule.h"
+	<math.h>
+
+1567946521 d:\data\dropbox\myproject\ocs analyser\ver_28\siggenmodule.h
+	"parameters.h"
+
+1567969521 d:\data\dropbox\myproject\ocs analyser\ver_28\sigprocmodule.h
+	"parameters.h"
+	<math.h>
+
+1567946350 d:\data\dropbox\myproject\ocs analyser\ver_28\threadmodule.h
+	"parameters.h"
+	<windows.h>
+	<process.h>
+	<unistd.h>
+	<pthread.h>
+	<time.h>
+
+1567946469 d:\data\dropbox\myproject\ocs analyser\ver_28\fsomodule.h
+	"dislin.h"
+	"parameters.h"
+
+1567982510 source:d:\data\dropbox\myproject\ocs analyser\ver_28\coremodule.c
+	"coreModule.h"
+	"grafixModule.h"
+	"FSOModule.h"
+
+1567946244 source:d:\data\dropbox\myproject\ocs analyser\ver_28\fsomodule.c
+	"FSOModule.h"
+	"grafixModule.h"
+	"sigProcModule.h"
+	"sigGenModule.h"
+	<math.h>
+
+1567978243 source:d:\data\dropbox\myproject\ocs analyser\ver_28\grafixmodule.c
+	"grafixModule.h"
+	"appModule.h"
+	"coreModule.h"
+	"sigProcModule.h"
+	<math.h>
+
+1567975991 source:d:\data\dropbox\myproject\ocs analyser\ver_28\main.c
+	"parameters.h"
+	"appModule.h"
+	"grafixModule.h"
+	<stdio.h>
+
+1567971897 source:d:\data\dropbox\myproject\ocs analyser\ver_28\siggenmodule.c
+	"sigGenModule.h"
+	<math.h>
+
+1567982466 source:d:\data\dropbox\myproject\ocs analyser\ver_28\sigprocmodule.c
+	"sigProcModule.h"
+	<gsl/gsl_errno.h>
+	<gsl/gsl_fft_complex.h>
+
+1567972009 source:d:\data\dropbox\myproject\ocs analyser\ver_28\threadmodule.c
+	"threadModule.h"
+	"appModule.h"
+	"coreModule.h"
+	"grafixModule.h"
+	<stdlib.h>
+	<time.h>
+
+1152000600 d:\program files (x86)\gnuwin32\include\gsl\gsl_errno.h
+	<stdio.h>
+	<errno.h>
+	<gsl/gsl_types.h>
+
+1152004526 d:\program files (x86)\gnuwin32\include\gsl\gsl_types.h
+
+1152000708 d:\program files (x86)\gnuwin32\include\gsl\gsl_fft_complex.h
+	<stddef.h>
+	<gsl/gsl_math.h>
+	<gsl/gsl_complex.h>
+	<gsl/gsl_fft.h>
+	<gsl/gsl_types.h>
+
+1152001600 d:\program files (x86)\gnuwin32\include\gsl\gsl_math.h
+	<math.h>
+	<gsl/gsl_sys.h>
+	<gsl/gsl_machine.h>
+	<gsl/gsl_precision.h>
+	<gsl/gsl_nan.h>
+	<gsl/gsl_pow_int.h>
+	<gsl/gsl_types.h>
+
+1152004496 d:\program files (x86)\gnuwin32\include\gsl\gsl_sys.h
+	<gsl/gsl_types.h>
+
+1059128362 d:\program files (x86)\gnuwin32\include\gsl\gsl_machine.h
+	<limits.h>
+	<float.h>
+
+1119774334 d:\program files (x86)\gnuwin32\include\gsl\gsl_precision.h
+	<gsl/gsl_types.h>
+
+1119774334 d:\program files (x86)\gnuwin32\include\gsl\gsl_nan.h
+
+1152003658 d:\program files (x86)\gnuwin32\include\gsl\gsl_pow_int.h
+	<gsl/gsl_types.h>
+
+1119774334 d:\program files (x86)\gnuwin32\include\gsl\gsl_complex.h
+
+1119774334 d:\program files (x86)\gnuwin32\include\gsl\gsl_fft.h
+	<gsl/gsl_complex.h>
+
