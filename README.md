@@ -2,7 +2,6 @@
 A free-space optical (FSO) commuication link simulator written in C language
 
 Written by Mojtaba Mansour Abadi
-email: mansourabadi.mojtaba@gmail.com
 
 The code is written in C language using Code::Blocks. The code performs a real time simulation by generating psedurandom bit sequence on the fly. The bit sequence is changed into electrical signal which modulates a laser later on. The output of the laser is launched into a free space optical channel where laser output is exposed to propagation, fog/smoke, turbulence, pointing error, and miscellaneous effects. The optical beam then is received by an aperture and then converted to electrical signal using a photo-receiver. Then received bits are extracted and compared to transmit bits in order to measure bit-error-rate (BER) of the system. The turbulence effect is based on Log-Normal model and for fog/smoke, Kim model is utilised.
 
