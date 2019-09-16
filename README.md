@@ -1,4 +1,4 @@
-# FSO-Simulator
+# FSO Simulator in C
 A free-space optical (FSO) commuication link simulator written in C language
 
 Written by Mojtaba Mansour Abadi
