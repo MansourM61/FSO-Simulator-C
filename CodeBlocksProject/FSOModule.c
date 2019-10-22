@@ -131,7 +131,7 @@ void PEChanCoeff(float *pCoeff, int iNoP, float fDTx, float fTheta, float fLinkL
         x = GaussNormNumGen()*fJitter;
         y = GaussNormNumGen()*fJitter;
         r = sqrt( POW2(x) + POW2(y) );
-        pU[index] = POW2(exp(-2.0*POW2(r)/fW2_eq_PE));  // calculate Rician random sequence
+        pU[index] = exp(-2.0*POW2(r)/fW2_eq_PE);  // calculate Rician random sequence
     }
 
     float* pTempArray_1 = (float *)calloc(iNoP*2, sizeof(float));  // allocate temporary memory 1 for re-sampled turbulence samples
