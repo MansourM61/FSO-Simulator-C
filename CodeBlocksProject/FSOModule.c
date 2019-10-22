@@ -121,14 +121,16 @@ void PEChanCoeff(float *pCoeff, int iNoP, float fDTx, float fTheta, float fLinkL
     float v_PE = sqrt(M_PI/2.0)*(fDRx/(2.0*fW_Rx));  // aperture to vertical beam size ratio
     float fW2_eq_PE = POW2(fW_Rx)*sqrt(M_PI)*erf(v_PE)/(2.0*v_PE*exp(-POW2(v_PE)));  // equivalent vertical beam size at receiver side
 
-    float r;  // Gaussian distributed random value
+    float x, y, r;  // Gaussian distributed random value
 
     int iNoPE = (int)ceil(fF_pe/fF_s*iNoP);  // number of pointing error sample points
 
     float* pU = (float *)calloc(iNoPE*2, sizeof(float));  // allocate memory for turbulence samples
 
     for(int index = 0; index < iNoPE*2; index++) {  // loop through the array
-        r = GaussNormNumGen()*fJitter;
+        x = GaussNormNumGen()*fJitter;
+        y = GaussNormNumGen()*fJitter;
+        r = sqrt( POW2(x) + POW2(y) );
         pU[index] = POW2(exp(-2.0*POW2(r)/fW2_eq_PE));  // calculate Rician random sequence
     }
 
